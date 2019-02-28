@@ -1,8 +1,6 @@
 layout: sidebar
 style: light
 
-baseurl: //taiko19xx.dev
-
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
